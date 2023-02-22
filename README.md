@@ -1,3 +1,3 @@
-# Baekjoon-PS
+# Problem Solving
 
-코딩테스트 준비를 위해 백준 문제들을 난이도별로 풀어서 정리하는 repository입니다.
+PS를 정리하기 위한 Repository 입니다.
